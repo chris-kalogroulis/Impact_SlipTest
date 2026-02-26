@@ -41,6 +41,10 @@ top_box_z=0.005,
 | **Ankle** | Stiffness ($k$) | 69.4 | Nm/rad |
 | **Ankle** | Damping ($d$) | 2.03 | Nms/rad |
 
+```python
+x_optimal = [0.855e5, 3.63e3, 0.694e2, 2.03e0]
+```
+
 **Final Position:**
 > **Y Pos:** 0.04695 m
 
@@ -134,6 +138,10 @@ top_box_z=0.005,
 | **Ankle** | Stiffness ($k$) | 136.2 | Nm/rad |
 | **Ankle** | Damping ($d$) | 1.787 | Nms/rad |
 
+```python
+x_optimal = [1.100e5, 1.770e3, 1.362e2, 1.787e0]
+```
+
 **Final Position:**
 > **Y Pos:** 0.03373 m
 
@@ -180,6 +188,10 @@ top_box_z=0.005,
 | **Knee** | Damping ($d$) | 1720 | Ns/m |
 | **Ankle** | Stiffness ($k$) | 153.2 | Nm/rad |
 | **Ankle** | Damping ($d$) | 1.598 | Nms/rad |
+
+```python
+x_optimal = [1.075e5, 1.720e3, 1.532e2, 1.598e0]
+```
 
 **Final Position:**
 > **Y Pos:** 0.1494 m
@@ -228,6 +240,10 @@ top_box_z=0.005,
 | **Ankle** | Stiffness ($k$) | 132.0 | Nm/rad |
 | **Ankle** | Damping ($d$) | 2.344 | Nms/rad |
 
+```python
+x_optimal = [1.296e5, 2.677e3, 1.320e2, 2.344e0]
+```
+
 **Final Position:**
 > **Y Pos:** 0.3911 m
 
@@ -275,7 +291,25 @@ top_box_z=0.005,
 | **Ankle** | Stiffness ($k$) | 119.0 | Nm/rad |
 | **Ankle** | Damping ($d$) | 1.57 | Nms/rad |
 
+```python
+x_optimal = [1.27e5, 1.86e3, 1.19e2, 1.57e0]
+```
+
 **Final Position:**
 > **Y Pos:** 0.8021 m
 
 ---
+
+# Discussion
+
+The trend is that all optimal impedance values were of consistent magnitudes, as shown below:
+
+```python
+x_optimal_1 = [0.855e5, 3.630e3, 0.694e2, 2.030e0]
+x_optimal_2 = [1.100e5, 1.770e3, 1.362e2, 1.787e0]
+x_optimal_3 = [1.075e5, 1.720e3, 1.532e2, 1.598e0]
+x_optimal_4 = [1.296e5, 2.677e3, 1.320e2, 2.344e0]
+x_optimal_5 = [1.270e5, 1.860e3, 1.190e2, 1.570e0]
+
+x_opt_avg   = [1.082e5, 2.449e3, 1.227e2, 1.940e0]
+```

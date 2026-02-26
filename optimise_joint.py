@@ -5,7 +5,7 @@ import numpy as np
 from scipy.optimize import minimize
 from impact_slip_sim import sim_cost
 
-x0 = np.array([1.10e+05, 1.522e+02, 1.72e+03, 1.587e+00])  # initial guess
+x0 = np.array([1.10e+05, 1.72e+03, 1.522e+02, 1.587e+00])  # initial guess
 bounds = [(1, 150000), (1, 10000), (0.1, 5000), (0.1, 1000)]
 
 mass = 5 # kg
@@ -33,9 +33,9 @@ def run_cost(x):
     global bounds
 
     knee_k = max(x[0], 1)
-    ankle_k = max(x[1], 1)
+    ankle_k = max(x[2], 1)
 
-    knee_d = max(x[2], 0.1)
+    knee_d = max(x[1], 0.1)
     ankle_d = max(x[3], 0.1)
 
     
@@ -108,8 +108,8 @@ def proceed_check():
 if proceed_check():
     result_x = res.x
     knee_k = result_x[0]
-    ankle_k = result_x[1]
-    knee_d = result_x[2]
+    ankle_k = result_x[2]
+    knee_d = result_x[1]
     ankle_d = result_x[3]
 
     joint_params = {
