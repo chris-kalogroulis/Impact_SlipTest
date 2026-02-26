@@ -38,8 +38,8 @@ top_box_z=0.005,
 | :--- | :--- | :--- | :--- |
 | **Knee** | Stiffness ($k$) | 85460 | N/m |
 | **Knee** | Damping ($d$) | 3630 | Ns/m |
-| **Ankle** | Stiffness ($k$) | 69.4 | N/rad |
-| **Ankle** | Damping ($d$) | 2.03 | Ns/rad |
+| **Ankle** | Stiffness ($k$) | 69.4 | Nm/rad |
+| **Ankle** | Damping ($d$) | 2.03 | Nms/rad |
 
 **Final Position:**
 > **Y Pos:** 0.04695 m
@@ -84,8 +84,8 @@ top_box_z=0.005,
 | :--- | :--- | :--- | :--- |
 | **Knee** | Stiffness ($k$) | 235.9 | N/m |
 | **Knee** | Damping ($d$) | 138.1 | Ns/m |
-| **Ankle** | Stiffness ($k$) | 6.133 | N/rad |
-| **Ankle** | Damping ($d$) | 38.22 | Ns/rad |
+| **Ankle** | Stiffness ($k$) | 6.133 | Nm/rad |
+| **Ankle** | Damping ($d$) | 38.22 | Nms/rad |
 
 **Final Position:**
 > **Y Pos:** 0.3284 m -->
@@ -131,8 +131,8 @@ top_box_z=0.005,
 | :--- | :--- | :--- | :--- |
 | **Knee** | Stiffness ($k$) | 110000 | N/m |
 | **Knee** | Damping ($d$) | 1770 | Ns/m |
-| **Ankle** | Stiffness ($k$) | 136.2 | N/rad |
-| **Ankle** | Damping ($d$) | 1.787 | Ns/rad |
+| **Ankle** | Stiffness ($k$) | 136.2 | Nm/rad |
+| **Ankle** | Damping ($d$) | 1.787 | Nms/rad |
 
 **Final Position:**
 > **Y Pos:** 0.03373 m
@@ -178,8 +178,8 @@ top_box_z=0.005,
 | :--- | :--- | :--- | :--- |
 | **Knee** | Stiffness ($k$) | 107500 | N/m |
 | **Knee** | Damping ($d$) | 1720 | Ns/m |
-| **Ankle** | Stiffness ($k$) | 153.2 | N/rad |
-| **Ankle** | Damping ($d$) | 1.598 | Ns/rad |
+| **Ankle** | Stiffness ($k$) | 153.2 | Nm/rad |
+| **Ankle** | Damping ($d$) | 1.598 | Nms/rad |
 
 **Final Position:**
 > **Y Pos:** 0.1494 m
@@ -225,8 +225,8 @@ top_box_z=0.005,
 | :--- | :--- | :--- | :--- |
 | **Knee** | Stiffness ($k$) | 129600 | N/m |
 | **Knee** | Damping ($d$) | 2677 | Ns/m |
-| **Ankle** | Stiffness ($k$) | 132.0 | N/rad |
-| **Ankle** | Damping ($d$) | 2.344 | Ns/rad |
+| **Ankle** | Stiffness ($k$) | 132.0 | Nm/rad |
+| **Ankle** | Damping ($d$) | 2.344 | Nms/rad |
 
 **Final Position:**
 > **Y Pos:** 0.3911 m
@@ -272,8 +272,8 @@ top_box_z=0.005,
 | :--- | :--- | :--- | :--- |
 | **Knee** | Stiffness ($k$) | 127000 | N/m |
 | **Knee** | Damping ($d$) | 1860 | Ns/m |
-| **Ankle** | Stiffness ($k$) | 119.0 | N/rad |
-| **Ankle** | Damping ($d$) | 1.57 | Ns/rad |
+| **Ankle** | Stiffness ($k$) | 119.0 | Nm/rad |
+| **Ankle** | Damping ($d$) | 1.57 | Nms/rad |
 
 **Final Position:**
 > **Y Pos:** 0.8021 m
