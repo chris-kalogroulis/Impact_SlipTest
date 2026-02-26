@@ -48,7 +48,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.7197457627118644 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.6936206896551724 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -57,7 +57,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.7197457627118644 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.6936206896551724 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -71,7 +71,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.6944915254237288 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.6422413793103449 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -80,7 +80,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.6944915254237288 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.6422413793103449 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -94,7 +94,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.6692372881355932 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.5908620689655173 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -103,7 +103,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.6692372881355932 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.5908620689655173 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -117,7 +117,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.6439830508474577 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.5394827586206896 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -126,7 +126,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.6439830508474577 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.5394827586206896 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -140,7 +140,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.6187288135593221 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.48810344827586205 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -149,7 +149,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.6187288135593221 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.48810344827586205 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -163,7 +163,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.5934745762711864 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.4367241379310345 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -172,7 +172,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.5934745762711864 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.4367241379310345 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -186,7 +186,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.5682203389830508 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.38534482758620686 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -195,7 +195,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.5682203389830508 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.38534482758620686 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -209,7 +209,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.5429661016949152 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.3339655172413793 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -218,7 +218,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.5429661016949152 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.3339655172413793 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -232,7 +232,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.5177118644067796 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.28258620689655173 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -241,7 +241,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.5177118644067796 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.28258620689655173 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -255,7 +255,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.49245762711864405 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.2312068965517241 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -264,7 +264,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.49245762711864405 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.2312068965517241 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -278,7 +278,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.46720338983050846 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.17982758620689654 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -287,7 +287,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.46720338983050846 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.17982758620689654 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -301,7 +301,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.4419491525423729 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.12844827586206897 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -310,7 +310,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.4419491525423729 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.12844827586206897 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -324,7 +324,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.4166949152542373 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.0770689655172414 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -333,7 +333,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.4166949152542373 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.0770689655172414 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -347,7 +347,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.39144067796610166 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.025689655172413728 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -356,7 +356,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.39144067796610166 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="-0.025689655172413728 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -370,7 +370,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.3661864406779661 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.02568965517241384 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -379,7 +379,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.3661864406779661 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.02568965517241384 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -393,7 +393,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.3409322033898305 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.0770689655172414 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -402,7 +402,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.3409322033898305 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.0770689655172414 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -416,7 +416,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.3156779661016949 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.12844827586206897 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -425,7 +425,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.3156779661016949 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.12844827586206897 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -439,7 +439,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.2904237288135593 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.17982758620689654 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -448,7 +448,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.2904237288135593 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.17982758620689654 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -462,7 +462,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.2651694915254237 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.23120689655172422 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -471,7 +471,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.2651694915254237 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.23120689655172422 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -485,7 +485,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.2399152542372881 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.2825862068965518 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -494,7 +494,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.2399152542372881 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.2825862068965518 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -508,7 +508,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.21466101694915252 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.33396551724137924 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -517,7 +517,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.21466101694915252 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.33396551724137924 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -531,7 +531,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.18940677966101693 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.3853448275862069 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -540,7 +540,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.18940677966101693 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.3853448275862069 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -554,7 +554,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.16415254237288135 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.4367241379310346 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -563,7 +563,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.16415254237288135 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.4367241379310346 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -577,7 +577,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.13889830508474577 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.48810344827586205 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -586,7 +586,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.13889830508474577 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.48810344827586205 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -600,7 +600,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.11364406779661018 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.5394827586206897 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -609,7 +609,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.11364406779661018 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.5394827586206897 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -623,7 +623,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.0883898305084746 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.5908620689655172 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -632,7 +632,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.0883898305084746 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.5908620689655172 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -646,7 +646,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.0631355932203389 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.6422413793103449 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -655,7 +655,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.0631355932203389 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.6422413793103449 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -669,7 +669,7 @@
       </drake:proximity_properties>
     </collision>
     <visual>
-      <origin xyz="-0.03788135593220332 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.6936206896551725 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -678,697 +678,7 @@
       </material>
     </visual>
     <collision>
-      <origin xyz="-0.03788135593220332 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="-0.012627118644067736 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_29_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="-0.012627118644067736 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.012627118644067847 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_30_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.012627118644067847 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.03788135593220343 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_31_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.03788135593220343 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.06313559322033901 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_32_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.06313559322033901 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.0883898305084746 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_33_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.0883898305084746 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.11364406779661018 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_34_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.11364406779661018 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.13889830508474577 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_35_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.13889830508474577 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.16415254237288135 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_36_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.16415254237288135 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.18940677966101693 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_37_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.18940677966101693 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.21466101694915263 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_38_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.21466101694915263 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.2399152542372882 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_39_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.2399152542372882 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.2651694915254238 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_40_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.2651694915254238 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.29042372881355927 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_41_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.29042372881355927 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.31567796610169496 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_42_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.31567796610169496 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.34093220338983066 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_43_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.34093220338983066 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.36618644067796613 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_44_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.36618644067796613 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.3914406779661018 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_45_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.3914406779661018 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.4166949152542373 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_46_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.4166949152542373 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.441949152542373 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_47_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.441949152542373 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.46720338983050846 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_48_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.46720338983050846 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.49245762711864416 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_49_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.49245762711864416 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.5177118644067796 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_50_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.5177118644067796 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.5429661016949153 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_51_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.5429661016949153 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.5682203389830508 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_52_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.5682203389830508 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.5934745762711865 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_53_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.5934745762711865 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.6187288135593222 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_54_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.6187288135593222 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.6439830508474577 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_55_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.6439830508474577 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.6692372881355934 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_56_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.6692372881355934 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.6944915254237288 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_57_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.6944915254237288 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <drake:proximity_properties>
-        <drake:compliant_hydroelastic />
-        <drake:hydroelastic_modulus value="5e7" />
-        <drake:hunt_crossley_dissipation value="1.0" />
-        <drake:resolution_hint value="0.01" />
-        <drake:mu_static value="0.15" />
-        <drake:mu_dynamic value="0.12" />
-      </drake:proximity_properties>
-    </collision>
-    <visual>
-      <origin xyz="0.7197457627118645 0.0 0.0275" rpy="0 0 0" />
-      <geometry>
-        <box size="0.01 0.5 0.005" />
-      </geometry>
-      <material name="bump_58_mat">
-        <color rgba="0.4 0.4 0.7 1.0" />
-      </material>
-    </visual>
-    <collision>
-      <origin xyz="0.7197457627118645 0.0 0.0275" rpy="0 0 0" />
+      <origin xyz="0.6936206896551725 0.0 0.0275" rpy="0 0 0" />
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
@@ -1386,7 +696,7 @@
       <geometry>
         <box size="0.01 0.5 0.005" />
       </geometry>
-      <material name="bump_59_mat">
+      <material name="bump_29_mat">
         <color rgba="0.4 0.4 0.7 1.0" />
       </material>
     </visual>

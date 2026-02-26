@@ -5,7 +5,7 @@ import numpy as np
 from scipy.optimize import minimize
 from impact_slip_sim import sim_cost
 
-x0 = np.array([1.10e+05, 1.362e+02, 1.77e+03, 1.787e+00])  # initial guess
+x0 = np.array([1.10e+05, 1.522e+02, 1.72e+03, 1.587e+00])  # initial guess
 bounds = [(1, 150000), (1, 10000), (0.1, 5000), (0.1, 1000)]
 
 mass = 5 # kg
