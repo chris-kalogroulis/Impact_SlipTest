@@ -302,16 +302,16 @@ joint_params = {
                   k=0.0, x0=0.00, d=0.00),
 
     "knee":  dict(A="upper_leg", B="lower_leg",
-                  k=129600, x0=0.40, d=2677.0),
+                  k=127000, x0=0.40, d=1860.0),
 
-    "ankle": dict(k=132, q0=0.00, d=2.344),
+    "ankle": dict(k=119, q0=0.00, d=1.57),
 }
 test_params = {
     "duration": 2.0,
     "y_pos0": 0.645,
     "y_vel0": 0.0,
     "z_pos0": -0.65,
-    "z_vel0": 1.0,
+    "z_vel0": 2.5,
     "slope": 40,
 }
 

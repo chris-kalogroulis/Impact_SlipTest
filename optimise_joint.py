@@ -13,12 +13,13 @@ mass = 5 # kg
 best = {"x": None, "f": np.inf}
 
 powell = False
-max_iter = 200
+max_iter = 75
 
 count = 0
+modifier = 1.7
 
 test_params = {
-    "duration": 1.0,
+    "duration": 1.5,
     "y_pos0": 0.645,
     "y_vel0": 0.0,
     "z_pos0": -0.65,
@@ -29,12 +30,13 @@ test_params = {
 def run_cost(x):
     global count 
     global start_time
+    global bounds
 
-    knee_k = x[0]
-    ankle_k = x[1]
+    knee_k = max(x[0], 1)
+    ankle_k = max(x[1], 1)
 
-    knee_d = x[2] # 2*np.sqrt(knee_k*mass)   # critcally damped
-    ankle_d = x[3] # 2*np.sqrt(ankle_k*mass) # crtically damped
+    knee_d = max(x[2], 0.1)
+    ankle_d = max(x[3], 0.1)
 
     
 
@@ -63,7 +65,7 @@ def run_cost(x):
     count = count + 1
     end_time = time.perf_counter()
     duration = end_time - start_time
-    frac_done = count/max_iter
+    frac_done = count/(max_iter*modifier)
     time_left = (duration/frac_done) - duration
 
     print(f"x: {x}    cost: {f}    %: {int(frac_done*100)} tleft: {int(time_left)}")

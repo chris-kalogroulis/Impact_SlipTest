@@ -217,7 +217,7 @@ if __name__ == "__main__":
         top_box_z=0.005,
         filename="terr_geom.urdf",
         drake_props=drake_props,
-        random=True,   # ✅ random spacing
+        random=False,   # ✅ random spacing
         seed=0,        # optional
         # min_gap=0.012 # optional (defaults to top_box_x)
     )
